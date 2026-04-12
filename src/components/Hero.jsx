@@ -207,7 +207,7 @@ export default function Hero() {
         gap: 8,
         opacity: 0.5,
       }}>
-        <span style={{ fontFamily: 'Inter, sans-serif', fontSize: 11, color: '#FFF8E6', letterSpacing: '0.1em', textTransform: 'uppercase' }}>Scroll</span>
+        <span style={{ fontFamily: 'Inter, sans-serif', fontSize: 11, color: '#FFF8E6', letterSpacing: '0.1em', textTransform: 'uppercase' }}></span>
         <div style={{ width: 1, height: 40, background: 'linear-gradient(to bottom, rgba(255,248,230,0.5), transparent)' }} />
       </div>
     </section>
