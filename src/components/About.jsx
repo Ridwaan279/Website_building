@@ -59,8 +59,9 @@ export default function About() {
               color: '#2B1D14',
               lineHeight: 1.8,
             }}>
-              Qashqai Kitchen is Sheffield's only authentic Persian restaurant, proudly named after the{' '}
-              <strong style={{ color: '#8C2F1B' }}>Qashqai tribe of southern Iran</strong>: nomadic people celebrated for their rich culture, artisan crafts, and vibrant traditions.
+              Qashqai Kitchen is{' '}
+              <strong style={{ color: '#8C2F1B' }}> Sheffield's most authentic Persian restaurant, </strong>
+              proudly named after the Qashqai tribe of southern Iran.
             </p>
             <p style={{
               fontFamily: 'Inter, sans-serif',
@@ -68,7 +69,7 @@ export default function About() {
               color: '#7A6A5C',
               lineHeight: 1.8,
             }}>
-              Nestled in the heart of Nether Edge on Abbeydale Road, our yellow storefront has become a beloved landmark. Our family brings over <strong style={{ color: '#2B1D14' }}>40 years of culinary expertise</strong> from Iran, infusing every dish with the depth, fragrance, and warmth that defines true Persian hospitality.
+              Nested in the heart of Nether Edge on Abbeydale Road, our yellow storefront has become a beloved landmark. Our family brings over <strong style={{ color: '#2B1D14' }}>40 years of culinary expertise</strong> from Iran, infusing every dish with the depth, fragrance, and warmth that defines true Persian hospitality.
             </p>
             <p style={{
               fontFamily: 'Inter, sans-serif',
