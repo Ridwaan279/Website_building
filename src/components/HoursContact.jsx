@@ -271,7 +271,7 @@ export default function HoursContact() {
               style={{ border: 'none', display: 'block' }}
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2380.2!2d-1.4835!3d53.3672!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNTPCsDIyJzAyLjAiTiAxwrAyOCc1OS4wIlc!5e0!3m2!1sen!2suk!4v1600000000000!5m2!1sen!2suk"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2379.8!2d-1.4752146!3d53.3647575!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48798287d609c1b1:0xf78000486f96937a!2sQashQai%20Kitchen!5e0!3m2!1sen!2suk!4v1600000000000!5m2!1sen!2suk"
             />
           </div>
         </div>
