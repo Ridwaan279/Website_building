@@ -1,21 +1,17 @@
 {
   "name": "app",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+
+
   "type": "module",
+  "homepage": "https://ridwaan279.github.io/Website_building",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://t:eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJvcmNoaWRzIiwic3ViIjoiQHBpZXJyZS9zdG9yYWdlIiwicmVwbyI6IjExMDA0ZGQ4LTVhZTktNDdmMi04OTk3LTZmODU1NDE0MTcyZCIsInNjb3BlcyI6WyJnaXQ6cmVhZCIsImdpdDp3cml0ZSJdLCJpYXQiOjE3NzU4MzI5NTMsImV4cCI6MTgwNjkzNjk1M30.Vvm-rlOu3efnJ_jmkz3v_DpPMVmWjk6AopMzLZrTfHVj-pe3O1RoHe-pEU2sSDx1jU6yZ4fi6CV-K652Tgdm9A@orchids.code.storage/11004dd8-5ae9-47f2-8997-6f855414172d.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+
   "dependencies": {
     "@tailwindcss/vite": "^4.2.2",
     "@vitejs/plugin-react": "^6.0.1",
@@ -23,5 +19,8 @@
     "react-dom": "^19.2.5",
     "tailwindcss": "^4.2.2",
     "vite": "^8.0.8"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
