@@ -1,11 +1,12 @@
 import { useState, useEffect } from 'react'
 
-const slides = [
-  '/images/hero-1.webp',
-  '/images/hero-2.png',
-  '/images/hero-3.png',
-]
+const base = import.meta.env.BASE_URL;
 
+const slides = [
+  `${base}images/hero-1.webp`,
+  `${base}images/hero-2.png`,
+  `${base}images/hero-3.png`,
+]
 export default function Hero() {
   const [current, setCurrent] = useState(0)
 
